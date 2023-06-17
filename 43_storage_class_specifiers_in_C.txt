@@ -1,0 +1,34 @@
+
+Section 06: Storage Class Specifiers in C
+-------------------------------------------------------------------
+
+The Storage Class in 'C' Language decides
+
+	- Scope of a variable
+
+	- Visibility of a variable or function
+
+	- Life time of a variable
+
+
+Scope, visibility, and lifetime are features of a variable.
+These features can be modified by using storage class
+specifiers
+
+
+Storage Class Specifiers in 'C'
+
+There are two widely used storage class specifiers in 'C'
+
+	- static
+
+	- extern
+
+
+We want a global variable that is private to a fuction.
+We want a private variable that does not lose its
+existence even if the execution control goes out of
+the scope of that variable.
+
+
+
