@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686965325 source:c:\users\matt\desktop\embedded-c\my-workspace\host\section-06\43-storage-class-specifiers-in-c\main.c
+	<stdio.h>
+	<stdlib.h>
+
