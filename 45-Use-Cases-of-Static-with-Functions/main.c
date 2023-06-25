@@ -1,10 +1,14 @@
 /*
     Author: Matt Johnson
     Subject: use cases of static with functions
-    Purpose:
+    Purpose: access a function outside of the main.c scope
     Date: 06/24/2023
 
     Notes:
+
+        remove 'static' before the change_system_clock()
+        to compile, build, and run with no warnings or
+        errors
 
 */
 
