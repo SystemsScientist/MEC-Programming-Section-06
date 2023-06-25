@@ -1,0 +1,21 @@
+
+Section 06: ASCII Codes
+-----------------------------------------------------------------------
+
+ASCII Codes
+
+	- The American National Standards Institute
+	  (ANSI), which developed ANSI C, also developed
+	  the ASCII codes
+
+	- ASCII stands for "American Standard Code for
+	  Information Interchange"
+
+	- By using ASCII standard, you can encode 128
+	  different characters
+	
+	- That's why to encode any ASCII character, you
+	  just need 7 bits (you can use char data type)
+
+
+
