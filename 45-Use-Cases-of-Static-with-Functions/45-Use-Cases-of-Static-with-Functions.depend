@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687654613 source:c:\users\matt\desktop\embedded-c\my-workspace\host\section-06\45-use-cases-of-static-with-functions\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1687654450 source:c:\users\matt\desktop\embedded-c\my-workspace\host\section-06\45-use-cases-of-static-with-functions\file1.c
+
